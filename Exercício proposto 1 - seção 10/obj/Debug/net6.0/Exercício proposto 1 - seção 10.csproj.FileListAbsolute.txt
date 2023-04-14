@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\obj\Debug\net6.0\Exercício proposto 1 - seção 10.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\obj\Debug\net6.0\Exercício proposto 1 - seção 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\obj\Debug\net6.0\Exercício proposto 1 - seção 10.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\obj\Debug\net6.0\Exercício proposto 1 - seção 10.AssemblyInfo.cs
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\obj\Debug\net6.0\Exercício proposto 1 - seção 10.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\bin\Debug\net6.0\Exercício proposto 1 - seção 10.exe
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\bin\Debug\net6.0\Exercício proposto 1 - seção 10.deps.json
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\bin\Debug\net6.0\Exercício proposto 1 - seção 10.runtimeconfig.json
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\bin\Debug\net6.0\Exercício proposto 1 - seção 10.dll
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\bin\Debug\net6.0\Exercício proposto 1 - seção 10.pdb
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\obj\Debug\net6.0\Exercício proposto 1 - seção 10.dll
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\obj\Debug\net6.0\refint\Exercício proposto 1 - seção 10.dll
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\obj\Debug\net6.0\Exercício proposto 1 - seção 10.pdb
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\obj\Debug\net6.0\Exercício proposto 1 - seção 10.genruntimeconfig.cache
+C:\temp\ws-vs2022\Exercício proposto 1 - seção 10\Exercício proposto 1 - seção 10\obj\Debug\net6.0\ref\Exercício proposto 1 - seção 10.dll
